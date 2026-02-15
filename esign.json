@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-15T20:39:55+00:00",
+      "versionDate": "2026-02-15T20:45:46+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - feat: add real-time logging toggle for workflows with Firebase integration",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260215-203951/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260215-204542/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 13970481,
+      "size": 13970479,
       "type": 1
     }
   ]
