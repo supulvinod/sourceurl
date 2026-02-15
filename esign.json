@@ -9,14 +9,14 @@
       "developerName": "Supul Vinod",
       "subtitle": "Smart Home Automation",
       "version": "1.0.0",
-      "versionDate": "2026-02-15T18:53:30+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: enhance logging for iOS build process with real-time updates to Firebase",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260215-185326/SpaceNXT.ipa",
+      "versionDate": "2026-02-15T19:00:55+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: update esign.json structure and content for consistency with new app branding",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260215-190051/SpaceNXT.ipa",
       "localizedDescription": "SpaceNXT - Smart home automation app",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 13955907,
+      "size": 13955908,
       "type": 1
     }
   ]
