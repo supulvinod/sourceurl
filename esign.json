@@ -1,0 +1,23 @@
+{
+  "name": "SpaceNXT Releases",
+  "identifier": "com.supulvinod.spacenxt",
+  "sourceURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/esign.json",
+  "apps": [
+    {
+      "name": "SpaceNXT",
+      "bundleIdentifier": "com.supulvinod.spacenxt",
+      "developerName": "Supul Vinod",
+      "subtitle": "Smart Home Automation",
+      "version": "1.0.0",
+      "versionDate": "2026-02-15T18:36:18+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: update esign.json source URL and enhance JSON structure for sourceurl repo",
+      "downloadURL": "https://github.com/supulvinod/remote-home/releases/download/ios-build-20260215-183615/remote-home-unsigned.ipa",
+      "localizedDescription": "SpaceNXT - Smart home automation app",
+      "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
+      "tintColor": "6366F1",
+      "isLanZouCloud": 0,
+      "size": 13955907,
+      "type": 1
+    }
+  ]
+}
