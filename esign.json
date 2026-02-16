@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-16T20:37:43+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - Merge branch 'main' of https://github.com/supulvinod/remote-home",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-203738/SpaceNXT.ipa",
+      "versionDate": "2026-02-16T21:28:31+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - Refactor Firebase Database usage to a platform-agnostic implementation",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-212827/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 13990416,
+      "size": 13993556,
       "type": 1
     }
   ]
