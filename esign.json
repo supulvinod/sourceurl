@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-16T17:51:08+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: convert _RunCard to StatefulWidget and implement busy state handling for action buttons",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-175104/SpaceNXT.ipa",
+      "versionDate": "2026-02-16T19:34:38+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - Add Windows build workflow and enhance build release handling",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-193434/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 13987939,
+      "size": 13990415,
       "type": 1
     }
   ]
