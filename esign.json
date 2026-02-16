@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-16T17:01:32+00:00",
+      "versionDate": "2026-02-16T17:09:58+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - feat: enhance job log fetching logic to auto-load completed job logs and improve user experience",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-170128/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260216-170954/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 13981689,
+      "size": 13981691,
       "type": 1
     }
   ]
