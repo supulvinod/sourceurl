@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T04:31:09+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: reduce polling intervals for build monitoring and caching to improve responsiveness",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-043106/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T05:12:14+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: enhance logging analysis by refining ENABLE_LOGGING detection and workflow helper checks",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-051211/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14026956,
+      "size": 14029221,
       "type": 1
     }
   ]
