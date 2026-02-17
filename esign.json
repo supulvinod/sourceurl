@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T09:49:43+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: add curl command guarding and enhance workflow health checks",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-094938/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T11:16:21+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: implement targeted fixes for custom logging workflows and enhance logging infrastructure",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-111617/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14029153,
+      "size": 14030323,
       "type": 1
     }
   ]
