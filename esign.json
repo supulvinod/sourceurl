@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T16:29:41+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: enhance curl command handling and improve logging checks in workflow YAML",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-162938/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T16:41:46+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - Add workflows directory to asset paths in pubspec.yaml",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-164142/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14039808,
+      "size": 14061840,
       "type": 1
     }
   ]
