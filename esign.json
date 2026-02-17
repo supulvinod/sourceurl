@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T18:08:52+00:00",
+      "versionDate": "2026-02-17T18:09:31+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - feat: update logging behavior for workflow entries to auto-clean completed ones older than 24h",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-180848/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-180928/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14061758,
+      "size": 14061759,
       "type": 1
     }
   ]
