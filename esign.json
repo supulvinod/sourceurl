@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T08:32:13+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: sort workflow runs to prioritize active ones",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-083209/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T08:58:55+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: implement pagination for workflow runs and add bulk delete functionality",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-085852/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14013802,
+      "size": 14018221,
       "type": 1
     }
   ]
