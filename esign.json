@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T08:07:46+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - Update",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-080742/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T08:29:48+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: sort workflow runs to prioritize active ones",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-082945/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14011358,
+      "size": 14013802,
       "type": 1
     }
   ]
