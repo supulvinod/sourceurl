@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-17T12:11:51+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - feat: add handling for empty else branches to prevent bash syntax errors in YAML",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-121148/SpaceNXT.ipa",
+      "versionDate": "2026-02-17T13:02:18+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - feat: enhance curl command handling and improve logging checks in workflow YAML",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260217-130215/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14029710,
+      "size": 14039809,
       "type": 1
     }
   ]
