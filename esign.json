@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T14:49:26+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: add build workflow identification and enhance active run counting in build monitor",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-144921/SpaceNXT.ipa",
+      "versionDate": "2026-02-18T15:21:51+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: improve explanation for unguarded helper call issue in logging",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-152147/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14086197,
+      "size": 14088262,
       "type": 1
     }
   ]
