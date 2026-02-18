@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T21:53:11+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: refactor user management UI to utilize CustomScrollView for improved layout and performance",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-215308/SpaceNXT.ipa",
+      "versionDate": "2026-02-18T22:01:51+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: refactor cancel menu to improve usability and streamline workflow cancellation options",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-220147/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14112973,
+      "size": 14116371,
       "type": 1
     }
   ]
