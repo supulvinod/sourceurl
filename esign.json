@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T23:05:58+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: enhance logging credential exports and apply targeted fixes for detected issues",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-230554/SpaceNXT.ipa",
+      "versionDate": "2026-02-18T23:31:54+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: add critical checks for build log deletion, pendingId references, and unguarded curl commands",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-233152/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14116985,
+      "size": 14117235,
       "type": 1
     }
   ]
