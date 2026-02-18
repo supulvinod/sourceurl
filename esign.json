@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T12:34:12+00:00",
+      "versionDate": "2026-02-18T13:54:55+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - fix: enhance logging and debugging for workflow diagnosis and repair processes",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-123408/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-135451/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14086359,
+      "size": 14086357,
       "type": 1
     }
   ]
