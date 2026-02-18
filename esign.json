@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T15:21:51+00:00",
+      "versionDate": "2026-02-18T15:23:41+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - fix: improve explanation for unguarded helper call issue in logging",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-152147/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-152336/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14088262,
+      "size": 14088263,
       "type": 1
     }
   ]
