@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T18:02:51+00:00",
+      "versionDate": "2026-02-19T18:25:29+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - fix(ios): ROOT CAUSE — unsanitized Firebase RTDB key + dialog pop guards",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-180247/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-182525/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14098358,
+      "size": 14098359,
       "type": 1
     }
   ]
