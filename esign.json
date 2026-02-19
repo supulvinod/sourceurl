@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-18T23:31:54+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: add critical checks for build log deletion, pendingId references, and unguarded curl commands",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260218-233152/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T05:34:01+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: synchronize Firebase key mismatches in workflow issue display and diagnosis",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-053357/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14117235,
+      "size": 14122861,
       "type": 1
     }
   ]
