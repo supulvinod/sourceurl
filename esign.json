@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T07:26:54+00:00",
+      "versionDate": "2026-02-19T08:05:34+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - fix: reduce polling intervals to enhance responsiveness for active runs",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-072649/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-080530/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14131221,
+      "size": 14131219,
       "type": 1
     }
   ]
