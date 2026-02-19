@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T13:22:42+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: full revert to 544ff25 stable state (keep only poll interval 2/5/5/2)",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-132237/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T13:53:32+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: remove Firebase dot fix detection, repair and bundling",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-135327/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14129264,
+      "size": 14128889,
       "type": 1
     }
   ]
