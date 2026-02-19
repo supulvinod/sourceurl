@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T15:31:00+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix(ios): use overlay.context for Theme/MediaQuery in SmartSnackBar, eliminate redundant getFileContent",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-153054/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T15:57:53+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix(ios): prevent double-tap race, block barrier dismiss, use showGlobal for snackbars",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-155748/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14094589,
+      "size": 14096159,
       "type": 1
     }
   ]
