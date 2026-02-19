@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T05:34:01+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: synchronize Firebase key mismatches in workflow issue display and diagnosis",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-053357/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T05:40:23+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: notify listeners immediately after job deletion to update UI",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-054018/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14122861,
+      "size": 14122987,
       "type": 1
     }
   ]
