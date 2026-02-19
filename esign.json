@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T09:53:35+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: improve error handling in logging toggle and snackbar notifications",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-095331/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T10:52:45+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: enhance error handling and prevent crashes in audio playback and snackbar notifications",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-105241/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14136465,
+      "size": 14134766,
       "type": 1
     }
   ]
