@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T13:53:32+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: remove Firebase dot fix detection, repair and bundling",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-135327/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T14:29:51+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: remove all health checker, detection, repair and fix infrastructure",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-142947/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14128889,
+      "size": 14094684,
       "type": 1
     }
   ]
