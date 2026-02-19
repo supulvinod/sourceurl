@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-19T06:49:29+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix: implement fast reconnection on app resume to enhance user experience",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-064924/SpaceNXT.ipa",
+      "versionDate": "2026-02-19T07:19:04+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: increase delay for GitHub API propagation before re-checking workflow health",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260219-071859/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14129204,
+      "size": 14131282,
       "type": 1
     }
   ]
