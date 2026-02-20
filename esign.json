@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T15:26:42+00:00",
+      "versionDate": "2026-02-20T15:43:18+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - security: gate all debugPrint with kDebugMode + add RTDB rules",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-152638/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-154314/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14114430,
+      "size": 14114444,
       "type": 1
     }
   ]
