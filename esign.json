@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T09:50:11+00:00",
+      "versionDate": "2026-02-20T09:58:30+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - Fix PAT card layout: login overlapping validate/delete buttons",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-095005/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-095826/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14148343,
+      "size": 14148361,
       "type": 1
     }
   ]
