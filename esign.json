@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T06:15:33+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - fix(ui): disable Fix buttons after successful fix applied",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-061529/SpaceNXT.ipa",
+      "versionDate": "2026-02-20T06:25:19+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - Smart pre-run warning: show fix status, suppress after acknowledgment",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-062514/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14130691,
+      "size": 14135695,
       "type": 1
     }
   ]
