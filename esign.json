@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T21:12:48+00:00",
-      "versionDescription": "SpaceNXT v1.0.0 - perf: reduce CPU/battery heat — throttle polling, buffer logs, batch notifies",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-211245/SpaceNXT.ipa",
+      "versionDate": "2026-02-20T23:23:49+00:00",
+      "versionDescription": "SpaceNXT v1.0.0 - fix: rewrite _guardHelperCalls to stop breaking workflows",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-232345/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14136091,
+      "size": 14135371,
       "type": 1
     }
   ]
