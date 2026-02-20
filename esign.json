@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T19:47:52+00:00",
+      "versionDate": "2026-02-20T20:24:14+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - fix: guard helper calls skip continuation lines, add final bash syntax pass",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-194748/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-202410/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14136150,
+      "size": 14136154,
       "type": 1
     }
   ]
