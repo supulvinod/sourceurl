@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-20T03:17:25+00:00",
+      "versionDate": "2026-02-20T04:18:40+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - perf(thermal): pause animations on background + cache sound WAV data",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-031721/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260220-041836/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14128833,
+      "size": 14128829,
       "type": 1
     }
   ]
