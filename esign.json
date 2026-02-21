@@ -9,14 +9,14 @@
       "developerName": "spacenxt",
       "subtitle": "RH",
       "version": "1.0.0",
-      "versionDate": "2026-02-21T15:54:30+00:00",
+      "versionDate": "2026-02-21T16:02:10+00:00",
       "versionDescription": "SpaceNXT v1.0.0 - Move buildLogs-deleted and pendingId checks behind hasLogging gate",
-      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260221-155426/SpaceNXT.ipa",
+      "downloadURL": "https://github.com/supulvinod/sourceurl/releases/download/ios-build-20260221-160206/SpaceNXT.ipa",
       "localizedDescription": "prerelease",
       "iconURL": "https://raw.githubusercontent.com/supulvinod/sourceurl/main/icon.png",
       "tintColor": "6366F1",
       "isLanZouCloud": 0,
-      "size": 14151737,
+      "size": 14151738,
       "type": 1
     }
   ]
